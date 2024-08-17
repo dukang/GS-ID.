@@ -8,7 +8,7 @@
 We present GS-ID, a novel framework for illumination decomposition on Gaussian Splatting, achieving photorealistic novel view synthesis and intuitive light editing.
 
 <p align="center">
-  <img width="60%" src="assets/teaser.png"/>
-  <img width="60%" src="assets/application-lightedit.gif"/>
+  <img width="80%" src="assets/teaser.png"/>
+  <img width="80%" src="assets/application-lightedit.gif"/>
 </p>
 I am working on releasing the code. Please contact me if you have any questions at: kdu800@connect.hkust-gz.edu.cn
