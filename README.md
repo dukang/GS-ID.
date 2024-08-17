@@ -9,6 +9,6 @@ We present GS-ID, a novel framework for illumination decomposition on Gaussian S
 
 <p align="center">
   <img width="60%" src="assets/teaser.png"/>
-  <img width="60%" src="assets/application-lightedit.gif"/>
+  <img width="60%" src="assets/application-lightedit-min.gif"/>
 </p>
 I am working on releasing the code. Please contact me if you have any questions at: kdu800@connect.hkust-gz.edu.cn
