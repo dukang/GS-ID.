@@ -1,4 +1,4 @@
-# <p align="center"> GS-ID: Illumination Decomposition on Gaussian Splatting </p>
+# <p align="center"> GS-ID: Illumination Decomposition on Gaussian Splatting (ICCV2025) </p>
 
 #####  <p align="center"> [Kang Du](https://kangdu.top/), [Zhihao Liang](https://lzhnb.github.io/), [Zeyu Wang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WANG-Zeyu/zeyuwang)</p>
 
